@@ -35,7 +35,7 @@
 <img src ="https://img.shields.io/badge/postgres-%23404040.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
 </div>
 <div>
-<h4>In the past I have worked with...</h4>
+<h4>// In the past I have worked with...</h4>
 <img src="https://img.shields.io/badge/c%23%20-%23404040.svg?&style=flat-square&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js%20-%23404040.svg?&style=flat-square"/>
 <img src="https://img.shields.io/badge/jenkins%20-%23404040.svg?&style=flat-square&logo=jenkins&logoColor=white"/>
@@ -50,12 +50,12 @@
 <img src="https://img.shields.io/badge/jquery%20-%23404040.svg?&style=flat-square&logo=jquery&logoColor=white"/>
 </div>
 <div>
-<h4>I am currently learning...</h4>
+<h4>// I am currently learning...</h4>
 <img src="https://img.shields.io/badge/Nest%20-%23404040.svg?&style=flat-square&logo=nestjs&logoColor=<logo-color>"/>
 <img src="https://img.shields.io/badge/docker%20-%23404040.svg?&style=flat-square&logo=docker&logoColor=white"/>
 </div>
 <div>
-<h4>In the future I would like to learn...</h4>
+<h4>// In the future I would like to learn...</h4>
 <img src="https://img.shields.io/badge/kubernetes%20-%23404040.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%23404040.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/>
 <img src="https://img.shields.io/badge/dart-%23404040.svg?&style=flat-square&logo=dart&logoColor=white"/>
