@@ -40,9 +40,9 @@
 <img src="https://img.shields.io/badge/express.js%20-%23404040.svg?&style=flat-square"/>
 <img src="https://img.shields.io/badge/jenkins%20-%23404040.svg?&style=flat-square&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/vercel%20-%23404040.svg?&style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/DigitalOcean-%23404040.svg?&style=flat-square&logo=digitalOcean&logoColor=white"/>
+<img src="https://img.shields.io/badge/digitalocean-%23404040.svg?&style=flat-square&logo=digitalOcean&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-%23404040.svg?&style=flat-square&logo=mysql&logoColor=white"/>
-<img src ="https://img.shields.io/badge/MongoDB-%23404040.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
+<img src ="https://img.shields.io/badge/mongodb-%23404040.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
 <img src ="https://img.shields.io/badge/sqllite-%23404040.svg?&style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23404040.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/material%20ui%20-%23404040.svg?&style=flat-square&logo=material-ui&logoColor=white"/>
@@ -51,7 +51,8 @@
 </div>
 <div>
 <h4>// I am currently learning...</h4>
-<img src="https://img.shields.io/badge/Nest%20-%23404040.svg?&style=flat-square&logo=nestjs&logoColor=<logo-color>"/>
+<img src="https://img.shields.io/badge/nest%20-%23404040.svg?&style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/next%20-%23404040.svg?&style=flat-square&logo=nextjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker%20-%23404040.svg?&style=flat-square&logo=docker&logoColor=white"/>
 </div>
 <div>
